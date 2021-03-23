@@ -10,6 +10,30 @@
     font-size: 110px;
 }
 
+.Date {
+    height: 500px;
+    width: 1050px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 00; right: 01;
+    padding-top: 70px;
+    font-family: digital-7;
+    color: #fff;
+    font-size: 50px;
+}
+
+.Day {
+    height: 500px;
+    width: 950px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 01; bottom: 0; right: 0;
+    padding-top: 70px;
+    font-family: digital-7;
+    color: rgb(34, 218, 232);
+    font-size: 50px;
+}
+
 @font-face{
     font-family: 'digital-7';
     src: local('digital-7'), url(./fonts/digital-7.ttf) format('truetype');
